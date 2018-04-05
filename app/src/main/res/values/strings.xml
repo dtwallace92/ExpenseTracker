@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Expenses</string>
+    <string name="CurrentExpenses">Current Expenses:</string>
+    <string name="noExpense">There is no expense to show. Please add your expenses from the menu.</string>
+    <string name="AddExpense">Add An Expense</string>
+    <string name="ExpenseName">Expense Name</string>
+    <string name="Category">Category</string>
+    <string name="AddExpenseButton">Add Expense</string>
+    <string name="CancelButton">Cancel</string>
+    <string-array name="expenses_array">
+        <item>Groceries</item>
+        <item>Invoice</item>
+        <item>Transportation</item>
+        <item>Shopping</item>
+        <item>Rent</item>
+        <item>Trips</item>
+        <item>Other</item>
+    </string-array>
+</resources>
